@@ -10,7 +10,7 @@ print newPath
 from sys import platform
 if platform == "linux" or platform == "linux2":
     # linux
-    print 'prout'
+    print 'linux'
 
 
 print os.getuid()
